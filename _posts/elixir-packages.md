@@ -17,7 +17,7 @@ Elixir packages I've created.
 
 Elixir client for the [Airbrake](https://airbrake.io/) service!
 
-Github: (https://github.com/fazibear/airbrakex)[https://github.com/fazibear/airbrakex]
+Github: [https://github.com/fazibear/airbrakex](https://github.com/fazibear/airbrakex)
 
 - ![](https://img.shields.io/hexpm/dt/airbrakex.svg)
 - ![](https://img.shields.io/github/stars/fazibear/airbrakex.svg)
@@ -28,7 +28,7 @@ Github: (https://github.com/fazibear/airbrakex)[https://github.com/fazibear/airb
 
 Create elixir functions with SQL as a body.
 
-Github: (https://github.com/fazibear/defql)[https://github.com/fazibear/defql]
+Github: [https://github.com/fazibear/defql](https://github.com/fazibear/defql)
 
 - ![](https://img.shields.io/hexpm/dt/defql.svg)
 - ![](https://img.shields.io/github/stars/fazibear/defql.svg)
@@ -39,7 +39,7 @@ Github: (https://github.com/fazibear/defql)[https://github.com/fazibear/defql]
 
 [Erlport](http://erlport.org/) wrapper for Elixir.
 
-Github: (https://github.com/fazibear/export)[https://github.com/fazibear/export]
+Github: [https://github.com/fazibear/export](https://github.com/fazibear/export)
 
 - ![](https://img.shields.io/hexpm/dt/export.svg)
 - ![](https://img.shields.io/github/stars/fazibear/export.svg)
@@ -50,7 +50,7 @@ Github: (https://github.com/fazibear/export)[https://github.com/fazibear/export]
 
 iCalendar parser for Elixir.
 
-Github: (https://github.com/fazibear/ex_ical)[https://github.com/fazibear/ex_ical]
+Github: [https://github.com/fazibear/ex_ical](https://github.com/fazibear/ex_ical)
 
 - ![](https://img.shields.io/hexpm/dt/ex_ical.svg)
 - ![](https://img.shields.io/github/stars/fazibear/ex_ical.svg)

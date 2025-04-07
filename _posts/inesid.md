@@ -10,5 +10,5 @@ Open source Retro Web SID Player
 <!--more-->
 
 Related links:
-- (https://inesid.fazibear.me)[https://inesid.fazibear.me]
-- (https://github.com/fazibear/inesid)[https://github.com/fazibear/inesid]
+- [https://inesid.fazibear.me](https://inesid.fazibear.me)
+- [https://github.com/fazibear/inesid](https://github.com/fazibear/inesid)

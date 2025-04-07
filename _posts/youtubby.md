@@ -21,4 +21,4 @@ Goals:
  - Media Keys Support
  - AI (beacuse everything have it ;)
 
-(https://github.com/fazibear/youtubby)[https://github.com/fazibear/youtubby]
+[https://github.com/fazibear/youtubby](https://github.com/fazibear/youtubby)

@@ -18,7 +18,7 @@ Ruby gems I've created.
 
 Ruby gem for colorizing text using ANSI escape sequences. Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
 
-Github: https://github.com/fazibear/colorize
+Github: [https://github.com/fazibear/colorize](https://github.com/fazibear/colorize)
 
 - ![](https://badge.fury.io/rb/colorize.svg)
 - ![](https://img.shields.io/github/stars/fazibear/colorize.svg)
@@ -31,7 +31,7 @@ Github: https://github.com/fazibear/colorize
 
 Bring fuzzy_match directly into ruby. Now typos makes no difference.
 
-Github: https://github.com/fazibear/frubby
+Github: [https://github.com/fazibear/frubby](https://github.com/fazibear/frubby)
 
 - ![](https://badge.fury.io/rb/frubby.svg)
 - ![](https://img.shields.io/github/stars/fazibear/frubby.svg)
@@ -43,7 +43,7 @@ Github: https://github.com/fazibear/frubby
 
 Gadu-Gadu (polish communicator) protocol implementation in Ruby language.
 
-Github: https://github.com/fazibear/gruby
+Github: [https://github.com/fazibear/gruby](https://github.com/fazibear/gruby)
 
 - ![](https://badge.fury.io/rb/gruby.svg)
 - ![](https://img.shields.io/github/stars/fazibear/gruby.svg)
@@ -54,7 +54,7 @@ Github: https://github.com/fazibear/gruby
 
 Simple, lightweight and fast XML-RPC client library for ruby. It's based on OX XML parser.
 
-Github: https://github.com/fazibear/oxmlrpc
+Github: [https://github.com/fazibear/oxmlrpc](https://github.com/fazibear/oxmlrpc)
 
 - ![](https://badge.fury.io/rb/oxmlrpc.svg)
 - ![](https://img.shields.io/github/stars/fazibear/oxmlrpc.svg)

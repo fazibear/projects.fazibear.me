@@ -18,7 +18,7 @@ Opal Gems made by me.
 
 Opal wrapper for [airbrake-js](https://github.com/airbrake/airbrake-js) javascript library.
 
-Github: (https://github.com/fazibear/opal-airbrake)[https://github.com/fazibear/opal-airbrake]
+Github: [https://github.com/fazibear/opal-airbrake](https://github.com/fazibear/opal-airbrake)
 
 - ![](https://badge.fury.io/rb/opal-airbrake.svg)
 - ![](https://img.shields.io/github/stars/fazibear/opal-airbrake.svg)
@@ -30,7 +30,7 @@ Github: (https://github.com/fazibear/opal-airbrake)[https://github.com/fazibear/
 
 Opal wrapper for [Phoenix Framework](http://phoenixframework.org/) javascript library.
 
-Github: (https://github.com/fazibear/opal-phoenix)[https://github.com/fazibear/opal-phoenix]
+Github: [https://github.com/fazibear/opal-phoenix](https://github.com/fazibear/opal-phoenix)
 
 - ![](https://badge.fury.io/rb/opal-phoenix.svg)
 - ![](https://img.shields.io/github/stars/fazibear/opal-phoenix.svg)
@@ -42,7 +42,7 @@ Github: (https://github.com/fazibear/opal-phoenix)[https://github.com/fazibear/o
 
 Hermit's [jsSID](https://github.com/hermitsoft/jsSID) wrapper for opal.
 
-Github: (https://github.com/fazibear/opal-sid)[https://github.com/fazibear/opal-sid]
+Github: [https://github.com/fazibear/opal-sid](https://github.com/fazibear/opal-sid)
 
 - ![](https://badge.fury.io/rb/opal-sid.svg)
 - ![](https://img.shields.io/github/stars/fazibear/opal-sid.svg)
@@ -54,7 +54,7 @@ Github: (https://github.com/fazibear/opal-sid)[https://github.com/fazibear/opal-
 
 Opal wrapper for [virtual-dom](https://github.com/Matt-Esch/virtual-dom) javascript library. For more information see [virtual-dom wiki page](https://github.com/Matt-Esch/virtual-dom/wiki).
 
-Github: (https://github.com/fazibear/opal-virtual-dom)[https://github.com/fazibear/opal-virtual-dom]
+Github: [https://github.com/fazibear/opal-virtual-dom](https://github.com/fazibear/opal-virtual-dom)
 
 - ![](https://badge.fury.io/rb/opal-virtual-dom.svg)
 - ![](https://img.shields.io/github/stars/fazibear/opal-virtual-dom.svg)
@@ -66,7 +66,7 @@ Github: (https://github.com/fazibear/opal-virtual-dom)[https://github.com/fazibe
 
 Web MIDI wrapper for Opal.
 
-Github: (https://github.com/fazibear/opal-web-midi)[https://github.com/fazibear/opal-web-midi]
+Github: [https://github.com/fazibear/opal-web-midi](https://github.com/fazibear/opal-web-midi)
 
 - ![](https://badge.fury.io/rb/opal-web-midi.svg)
 - ![](https://img.shields.io/github/stars/fazibear/opal-web-midi.svg)

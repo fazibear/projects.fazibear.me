@@ -15,7 +15,7 @@ Online estimation tool for Agile teams.
 
 Links:
 
- - (https://sprintpoker.io)[https://sprintpoker.io]
- - (https://github.com/elpassion/sprint-poker)[https://github.com/elpassion/sprint-poker]
- - (https://github.com/elpassion/sprint-poker-inesita)[https://github.com/elpassion/sprint-poker-inesita]
- - (https://github.com/elpassion/sprint-poker-react)[https://github.com/elpassion/sprint-poker-react]
+ - [https://sprintpoker.io](https://sprintpoker.io)
+ - [https://github.com/elpassion/sprint-poker](https://github.com/elpassion/sprint-poker)
+ - [https://github.com/elpassion/sprint-poker-inesita](https://github.com/elpassion/sprint-poker-inesita)
+ - [https://github.com/elpassion/sprint-poker-react](https://github.com/elpassion/sprint-poker-react)

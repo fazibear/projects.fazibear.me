@@ -11,4 +11,4 @@ Kurvix is a shoot 'em up arcade video game developed in Rust.
 
 It's based on a cartoon called Kapitan Bomba.
 
-(https://kurvix.fazibear.me)[https://kurvix.fazibear.me]
+[https://kurvix.fazibear.me](https://kurvix.fazibear.me)

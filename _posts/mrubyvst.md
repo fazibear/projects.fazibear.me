@@ -9,4 +9,4 @@ VST plugin with MRuby as a scripting language.
 
 <!--more-->
 
-Github: (https://github.com/fazibear/mrubyvst)[https://github.com/fazibear/mrubyvst]
+Github: [https://github.com/fazibear/mrubyvst](https://github.com/fazibear/mrubyvst)
