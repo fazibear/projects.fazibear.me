@@ -2,8 +2,13 @@ title: Michał Kalbarczyk Projects
 author: Michał Kalbarczyk
 description: Michał Kalbarczyk Projects
 url: "https://projects.fazibear.me"
+ga: "G-4093L52QLW"
+nav_logo: projects.fazibear.me
+primary_color: "#ff9462"
 
 permalink: /:title
+
+theme: "fazibear.me"
 
 plugins:
   - jekyll-feed
@@ -14,4 +19,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "terminal"
