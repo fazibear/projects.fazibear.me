@@ -13,7 +13,7 @@ Elixir packages I've created.
 - Export
 - ExIcal
 
-# Airbrakex
+## Airbrakex
 
 Elixir client for the [Airbrake](https://airbrake.io/) service!
 
@@ -24,7 +24,7 @@ Github: [https://github.com/fazibear/airbrakex](https://github.com/fazibear/airb
 - ![](https://img.shields.io/hexpm/v/airbrakex.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Defql
+## Defql
 
 Create elixir functions with SQL as a body.
 
@@ -35,7 +35,7 @@ Github: [https://github.com/fazibear/defql](https://github.com/fazibear/defql)
 - ![](https://img.shields.io/hexpm/v/defql.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Export
+## Export
 
 [Erlport](http://erlport.org/) wrapper for Elixir.
 
@@ -46,7 +46,7 @@ Github: [https://github.com/fazibear/export](https://github.com/fazibear/export)
 - ![](https://img.shields.io/hexpm/v/export.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# ExIcal
+## ExIcal
 
 iCalendar parser for Elixir.
 

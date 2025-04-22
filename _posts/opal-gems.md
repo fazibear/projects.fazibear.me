@@ -14,7 +14,7 @@ Opal Gems made by me.
 - Virtual DOM
 - MIDI Wrapper
 
-# Airbrake
+## Airbrake
 
 Opal wrapper for [airbrake-js](https://github.com/airbrake/airbrake-js) javascript library.
 
@@ -26,7 +26,7 @@ Github: [https://github.com/fazibear/opal-airbrake](https://github.com/fazibear/
 - ![](https://codeclimate.com/github/fazibear/opal-airbrake/badges/gpa.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Phoenix
+## Phoenix
 
 Opal wrapper for [Phoenix Framework](http://phoenixframework.org/) javascript library.
 
@@ -38,7 +38,7 @@ Github: [https://github.com/fazibear/opal-phoenix](https://github.com/fazibear/o
 - ![](https://codeclimate.com/github/fazibear/opal-phoenix/badges/gpa.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# SID
+## SID
 
 Hermit's [jsSID](https://github.com/hermitsoft/jsSID) wrapper for opal.
 
@@ -50,7 +50,7 @@ Github: [https://github.com/fazibear/opal-sid](https://github.com/fazibear/opal-
 - ![](https://codeclimate.com/github/fazibear/opal-sid/badges/gpa.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Virtual DOM
+## Virtual DOM
 
 Opal wrapper for [virtual-dom](https://github.com/Matt-Esch/virtual-dom) javascript library. For more information see [virtual-dom wiki page](https://github.com/Matt-Esch/virtual-dom/wiki).
 
@@ -62,7 +62,7 @@ Github: [https://github.com/fazibear/opal-virtual-dom](https://github.com/fazibe
 - ![](https://codeclimate.com/github/fazibear/opal-virtual-dom/badges/gpa.svg)
 - ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# MIDI Wrapper
+## MIDI Wrapper
 
 Web MIDI wrapper for Opal.
 
