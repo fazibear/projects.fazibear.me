@@ -8,6 +8,9 @@ primary_color: "#ff9462"
 
 permalink: /:title
 
+visitors:
+  path: fazibear.me
+
 theme: "fazibear.me"
 
 plugins:
