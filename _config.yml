@@ -6,7 +6,7 @@ ga: "G-4093L52QLW"
 nav_logo: projects.fazibear.me
 primary_color: "#ff9462"
 
-permalink: /:title
+permalink: /:title/
 
 visitors:
   path: fazibear.me
