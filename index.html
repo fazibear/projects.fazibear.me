@@ -1,30 +1,69 @@
 ---
 ---
-<section>
+<section id="projects">
+  <style>
+    main {
+      margin-top: 20px;
+    }
+
+    #projects .content {
+      display: grid;
+      grid-template-rows: auto;
+      grid-gap: 1em;
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    #projects .content a {
+      position: relative;
+      display: block;
+      height: 300px;
+    }
+
+    #projects .content .title {
+      position: absolute;
+      display: none;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 300px;
+    }
+
+    #projects .content img {
+      max-width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    #projects .content a:hover img {
+      opacity: 0.2;
+    }
+
+    #projects .content a:hover .title {
+      display: block;
+    }
+  </style>
   <header>
-    <ul>
-      {% assign feat_projects = site.posts | where_exp: "post", "post.featured <= 10"  | sort: 'featured' %}
-      {% for post in feat_projects %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="dimmed">
-      {% for tag in post.tags limit:3 %}
-        #{{ tag }}
+    <div class="content">
+      {% assign feat_projects = site.projects | where_exp: "project", "project.featured <= 10"  | sort: 'featured' %}
+      {% for project in feat_projects %}
+        <a href="{{ project.link }}">
+          <div class="title">{{ project.title }}</div>
+          <img src="{{ project.image }}"/>
+        </a>
       {% endfor %}
-        </span>
-      </li>
-      {% endfor %}
-    </ul>
+    </div>
   </header>
   <a href="#all" class="all" id="all">Show all …</a>
   <header class="rest">
-    <ul>
-      {% assign projects = site.posts | where_exp: "post", "post.featured > 10"  | sort: 'featured' %}
-      {% for post in projects %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+    <div class="content">
+      {% assign projects = site.projects | where_exp: "project", "project.featured > 10"  | sort: 'featured' %}
+      {% for project in projects %}
+        <a href="{{ project.link }}">
+          <div class="title">{{ project.title }}</div>
+          <img src="{{ project.image }}"/>
+        </a>
       {% endfor %}
-    </ul>
+    <div>
   </header>
 </section>
